@@ -1,0 +1,23 @@
+[
+ {
+  "id": "la-goya",
+  "nombre": "La goya",
+  "categoria": "restaurantes-comida",
+  "descripcion": null,
+  "whatsapp": "584245368355",
+  "instagram": "lasasondemaroa",
+  "direccion": null,
+  "ciudad": "El tocuyo",
+  "estado": null,
+  "pais": "Venezuela",
+  "horario": null,
+  "logo": "fotos/la-goya/logo.jpg",
+  "portada": "",
+  "galeria": [],
+  "productos": [],
+  "destacado": false,
+  "publicado": "2026-10-26",
+  "vence": "2026-11-25",
+  "activo": true
+ }
+]
