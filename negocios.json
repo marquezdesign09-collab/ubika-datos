@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "id": "mony",
+  "nombre": "Mony",
+  "categoria": "ropa-calzado",
+  "descripcion": "Zapatos bellos 😍",
+  "whatsapp": "584245368355",
+  "instagram": "mony",
+  "direccion": null,
+  "ciudad": "Barquisimeto",
+  "estado": null,
+  "pais": "Venezuela",
+  "horario": null,
+  "logo": "fotos/mony/logo-mvp2yyf9.jpg",
+  "portada": "fotos/mony/portada-mvp2z188.jpg",
+  "galeria": [],
+  "productos": [],
+  "destacado": false,
+  "publicado": "2026-10-26",
+  "vence": "2026-11-25",
+  "activo": true
+ }
+]
