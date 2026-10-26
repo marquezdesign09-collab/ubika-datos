@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "id": "rolas",
+  "nombre": "Rolas",
+  "categoria": "ropa-calzado",
+  "descripcion": null,
+  "whatsapp": "584245368355",
+  "instagram": "bimbom",
+  "direccion": null,
+  "ciudad": "Barquisimeto",
+  "estado": null,
+  "pais": "Venezuela",
+  "horario": null,
+  "logo": "fotos/rolas/logo-mvp2clyj.jpg",
+  "portada": "fotos/rolas/portada-mvp2coix.jpg",
+  "galeria": [],
+  "productos": [],
+  "destacado": false,
+  "publicado": "2026-10-26",
+  "vence": "2026-11-25",
+  "activo": true
+ }
+]
