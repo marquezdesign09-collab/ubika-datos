@@ -19,5 +19,52 @@
   "publicado": "2026-10-26",
   "vence": "2026-11-25",
   "activo": true
+ },
+ {
+  "id": "nery",
+  "nombre": "Nery",
+  "categoria": "otros-negocios",
+  "descripcion": null,
+  "whatsapp": "584129931508",
+  "instagram": "luisnerytv",
+  "direccion": null,
+  "ciudad": "Barquisimeto",
+  "estado": null,
+  "pais": "Venezuela",
+  "horario": {
+   "lun": [
+    "08:00",
+    "18:00"
+   ],
+   "mar": [
+    "08:00",
+    "18:00"
+   ],
+   "mie": [
+    "08:00",
+    "18:00"
+   ],
+   "jue": [
+    "08:00",
+    "18:00"
+   ],
+   "vie": [
+    "08:00",
+    "18:00"
+   ],
+   "sab": [
+    "08:00",
+    "18:00"
+   ],
+   "dom": null
+  },
+  "logo": "fotos/nery/logo-mvractn8.jpg",
+  "portada": "fotos/nery/portada-mvracyd3.jpg",
+  "galeria": [],
+  "productos": [],
+  "destacado": false,
+  "publicado": "2026-10-27",
+  "vence": "2026-11-26",
+  "activo": true
  }
 ]
